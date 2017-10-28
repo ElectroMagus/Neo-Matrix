@@ -1,4 +1,4 @@
-// Uptime Variables
+// Uptime Variables - Test
 unsigned long lastTime = 0UL;
 char publishString[40];
 char brightnessString[40];
